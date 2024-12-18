@@ -1,1 +1,3 @@
 # Student_Exam_Performance
+
+This project was about finding what factors had the biggest effect on Student Exam Performance. I used Exploratory factor analysis to find which factor effected the final Exam Scores of students. Using this analysis, I was able to figure out what factor predicted a higher Exam Score. I wanted to do something exam related for this project because, I struggled a lot with exams.
